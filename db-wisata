@@ -111,6 +111,43 @@
                     "alamat" : "Cilacap",
                     "maps" : "https://goo.gl/maps/BS5YT9En3oz5aadp9"
                 }
+            ],
+             "maluku" : [
+                {
+                    "nama" : "Pantai Liang",
+                    "gambar" : "https://miro.medium.com/max/750/1*RccNfvAgyKHqqwIV7m2_hg.jpeg",
+                    "detail" : "Pantai yang juga dikenal dengan nama Pantai Hunimua ini terletak di Desa Liang, Kecamatan Salahutu, Ambon. Jaraknya sekitar 40 km dari pusat Kota Ambon. Pantai Liang memiliki panorama indah yang benar-benar menyejukkan mata dan pikiran. Hamparan pasir putih berpadu dengan air laut jernih berwarna kebiruan menjadikan pantai ini salah satu objek wisata populer di Ambon. Karena keindahannya, pantai ini bahkan pernah dinobatkan PBB sebagai pantai terindah di Indonesia pada tahun 1991! Ombak di pantai ini tidak terlalu besar, cocok buat kamu yang ingin berenang, snorkeling hingga diving. Bahkan, keindahan bawah laut pantai ini menjadikan Pantai Liang sebagai salah satu diving spot paling populer di Ambon lho!",
+                    "alamat" : "Maluku",
+                    "maps" : "https://goo.gl/maps/GDJs4T82eMwZXFNe7"
+                },
+                {
+                    "nama" : "Pantai Natsepa",
+                    "gambar" : "https://miro.medium.com/max/1080/1*sVONkRdC3Z-u97_NL2PfcQ.jpeg",
+                    "detail" : "Pantai ini terletak di Desa Suli, Maluku Tengah atau sekitar 18 km dari pusat Kota Ambon. Pantai cantik ini juga masuk list destinasi wajib ketika kamu berkunjung ke Ambon. Pantai Natsepa juga memiliki pasir putih dengan air laut yang jernih. Saking jernihnya, kamu bisa melihat ikan berenang dengan bebas di pantai ini. Di sepanjang pantai ini terdapat barisan pepohonan rindang yang menjadikan suasana di pantai ini lebih sejuk dan cocok dikunjungi bersama keluarga. Disini kamu bisa snorkeling maupun diving untuk menikmati keindahan bawah laut Ambon yang mempesona. Kamu juga bisa menyewa perahu untuk berkeliling pantai dan menikmati keindahan pantai ini dari laut lepas. Di pantai ini juga banyak penjaja kuliner khas Ambon lho!",
+                    "alamat" : "Maluku",
+                    "maps" : "https://goo.gl/maps/xbuD1vNHvP4upR2MA"
+                },
+                {
+                    "nama" : "Pantai Pintu Kota",
+                    "gambar" : "https://merahputih.com/media/2016/07/16/tb8Zpq2Dh31468640838.jpg",
+                    "detail" : "Pantai cantik di Ambon berikutnya adalah Pantai Pintu Kota yang terletak di Dusun Airlouw, Kecamatan Nusaniwe, Ambon. Pantai cantik ini memiliki keunikan tersendiri yang bisa membuat kamu terkagum-kagum akan pesonanya. Tak hanya memiliki pasir putih dan air laut kebiruan yang jernih, pantai ini juga memiliki sebuah tebing yang menjorok ke laut yang memiliki lubang di tengahnya. Lubang ini mirip dengan pintu gerbang, sehingga pantai ini dinamakan Pantai Pintu Kota. Pinggir pantai ini dipenuhi batu karang yang eksotis dan instagrammable sekali! Di pantai ini terdapat spot snorkeling dan diving yang bisa kamu jajal untuk menikmati keindahan bawah laut Pantai Pintu Kota yang mempesona.",
+                    "alamat" : "Maluku",
+                    "maps" : "https://goo.gl/maps/efhQjuLd3YBUf75w9"
+                },
+                {
+                    "nama" : "Pantai Santai",
+                    "gambar" : "https://miro.medium.com/max/1080/1*kOy4_Ekuu35T5hMEjh-sqA.jpeg",
+                    "detail" : "Pantai yang memiliki nama cukup unik ini terletak di Desa Latuhalat, Nusaniwe atau sekitar 17 km dari pusat Kota Ambon. Sesuai dengan namanya, Pantai Santai ini cocok sekali bagi kamu yang ingin bersantai melepaskan penat dari kegiatan sehari — hari. Pantai ini memiliki pasir putih dengan air berwarna kebiruan yang jernih. Karakteristik pantainya juga landai, sehingga kamu bisa puas bermain air, berenang, snorkeling hingga diving di pantai ini.",
+                    "alamat" : "Maluku",
+                    "maps" : "https://goo.gl/maps/ix6mCmixhC9Vf3cX7"
+                },
+                {
+                    "nama" : "Pantai Desa Hukurila",
+                    "gambar" : "https://miro.medium.com/max/1080/1*zdjbJiIyF1nmUOLEXMgq1Q.jpeg",
+                    "detail" : "Pantai cantik yang satu ini menawarkan keunikan tersendiri yang mempesona. Terletak di Desa Hukurila, pantai ini terkenal akan keindahan panoramanya sekaligus keberadaan gua — gua bawah laut yang sangat mempesona! Pantai Desa Hukurila ini merupaka salah satu spot favoritnya para diver untuk menyelam maupun snorkeling. Terumbu karang di pantai iini masih sangat terjaga keasriannya. Berbeda dari pantai-pantai Ambon sebelumnya, Pantai Desa Hukurila memiliki pasir berwana kehitaman dan dipenuhi batu karang yang mempesona. Posisi pantai ini yang berhadapan langsung dengan Laut Banda menjadikan pantai ini spot kece untuk menyaksikan sunrise dan juga sunset.",
+                    "alamat" : "Maluku",
+                    "maps" : "https://goo.gl/maps/2tTJoqLgUHJBdCxKA"
+                }
             ]
         }
 }
