@@ -1,7 +1,7 @@
 {
-    "bali" : [
+    "data" : [
         {
-            "pantai" : [
+            "bali" : [
                 {
                     "nama" : "Pantai Kuta",
                     "gambar" : "https://pesona.travel/media/kuta-pantai-paling-kondang-sedunia_130746_1140.jpeg",
@@ -40,41 +40,41 @@
             ]
         },
         {
-            "restoran" : [
+            "yogyakarta" : [
                 {
-                    "nama" : "Waterfall Breeze Eco Cafe",
-                    "gambar" : "https://media-cdn.tripadvisor.com/media/photo-s/14/60/88/df/waterfall-breeze-eco.jpg",
-                    "detail" : "Waterfall Breeze Eco Cafe ini letaknya hanya 25m saja dari air terjun Golden Valley. Jadi sambil menikmati menu yang disajikan Anda tetap bisa merasakan kesejukan dari air terjun. Apalagi di sekeliling cafe ini pun masih banyak pepohonan rimbun, benar-benar tempat yang sempurna untuk melepas penat. Untuk sampai ke tempat ini, Anda perlu menyusuri jalan setapak dan menuruni lembah. Lalu, akan ada jembatan kecil dengan pohon kopi di kiri dan kanan Anda saat masuk ke area cafe. Lelah selama perjalanan pun langsung terbayarkan dengan secangkir kopi luwak dengan kualitas terbaik dan makanan organik. Tertarik untuk belajar masak di sini? Bisa juga lho! Seru kan pastinya belajar masak langsung di depan air terjun? Dijalankan oleh Bali Mountain Women Coffee Cooperative, tempat ini sangat layak untuk Anda kunjungi. Pemilik dan para staf yang ada di sini sangat ramah sehingga membuat Anda betah berlama-lama di sini.",
-                    "alamat" : "Bali",
-                    "maps" : "https://goo.gl/maps/4VqPrgVvX52jMtTb6"
+                    "nama" : "Pantai Parangtritis",
+                    "gambar" : "https://cdn2.tstatic.net/jogja/foto/bank/images/tempat-wisata-yang-wajib-di-kunjungi-ketika-ke-parangtritis.jpg",
+                    "detail" : "Pantai Parangtritis terletak 27 km selatan Kota Jogja dan mudah dicapai dengan transportasi umum yang beroperasi hingga pk 17.00 maupun kendaraan pribadi. Sore menjelang matahari terbenam adalah saat terbaik untuk mengunjungi pantai paling terkenal di Yogyakarta ini. Namun bila Anda tiba lebih cepat, tak ada salahnya untuk naik ke Tebing Gembirawati di belakang pantai ini. Dari sana kita bisa melihat seluruh area Pantai Parangtritis, laut selatan, hingga ke batas cakrawala. Belum banyak orang tahu bahwa di sebelah timur tebing ini tersembunyi sebuah reruntuhan candi. Berbeda dengan candi lainnya yang terletak di daerah pegunungan, Candi Gembirawati hanya beberapa ratus meter dari bibir Pantai Parangtritis. Untuk menuju candi ini, kita bisa melewati jalan menanjak dekat Hotel Queen of the South lalu masuk ke jalan setapak ke arah barat sekitar 100 meter. Sayup-sayup gemuruh ombak laut selatan yang ganas bisa terdengar dari candi ini. Pantai Parangtritis sangat lekat dengan mitos Ratu Kidul. Banyak orang Jawa percaya bahwa Pantai Parangtritis adalah gerbang kerajaan gaib Ratu Kidul. ",
+                    "alamat" : "Yogyakarta",
+                    "maps" : "https://goo.gl/maps/AH24AiGysU3AR7nu8"
                 },
                 {
-                    "nama" : "The Amora Bali Restaurant",
-                    "gambar" : "https://www.korinatour.co.id/wp-content/uploads/2017/03/15034835_1893353124231729_7074625380706942976_n.jpg",
-                    "detail" : "Dengan ketinggian beberapa ratus meter di atas permukaan laut, Anda dapat menikmati pemandangan Gunung Batur yang indah jika bersantap di The Amora Bali! Restoran yang seolah berada di atas awan ini dapat membawa selera makan Anda ke tingkat selanjutnya dengan menawarkan pemandangan yang tak ternilai. Selain panoramanya, yang jadi andalan di sini adalah makanan khas setempat yang diolah dari hasil kebun sekitar. Soal rasa… tak perlu ditanyakan lagi. Dan harganya juga sangat terjangkau.",
-                    "alamat" : "Bali",
-                    "maps" : "https://g.page/amorarestaurant?share"
+                    "nama" : "Pantai Drini",
+                    "gambar" : "https://i2.wp.com/dolanyok.com/wp-content/uploads/2019/11/pantai-drini-1.jpg",
+                    "detail" : "Pantai Drini adalah salah satu objek wisata yang terletak di Desa Banjarejo, Kecamatan Tanjungsari, Gunungkidul, Yogyakarta. Letaknya di sebelah timur pantai Baron dan berjarak sekitar 1 km ke arah timur Pantai Sepanjang. Namun jarak sebenarnya yang harus ditempuh untuk sampai ke pantai ini sejauh 60 km atau sekitar 2-3 jam dari kota Yogyakarta. Infrastruktur menuju ke Pantai Drini cukup mulus, walaupun jalan masuk untuk sampai ke pantai ini cukup terjal dan berkelok-kelok. Pantai drini merupakan pantai yang langsung berhadapan dengan Samudra Hindia. Pantai ini memiliki lereng pantai yang cukup curam sekitar 10 derajat dan merupakan bagian dari Wonosari yang didominasi oleh batuan karst dari Gunung Sewu.",
+                    "alamat" : "Yogyakarta",
+                    "maps" : "https://goo.gl/maps/jdDfieAuAiyFNWin7"
                 },
                 {
-                    "nama" : "Dedari Theory Treetop & Bar",
-                    "gambar" : "https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/07/2-4-Dedari-Theory-by-fittybangbang-740x740.jpg",
-                    "detail" : "Dedari Theory adalah tempat nongkrong dengan konsep terbuka dan Anda bebas memilih mau duduk di mana saja. Tapi sebelum mulai duduk dan memesan makanan, kami rekomendasikan untuk mampir sejenak ke dek yang ada di puncak pohon sambil menikmati sunset dan menyesap cocktail. Ya, dari sini Anda bisa menyaksikan langit senja perlahan berganti warna menjadi lembayung. Sungguh spektakuler! Restoran ini menawarkan masakan khas tradisional Bali serta makanan barat. Dan menu yang paling banyak penggemarnya di sini adalah menu nasinya! Dengan tempat yang luas dan lega, anak-anak pun bisa bebas berlarian ke sana ke mari di Dedary Theory. Bahkan tak jarang restoran ini jadi tempat untuk mengadakan acara pesta, arisan dan sebagainya.",
-                    "alamat" : "Bali",
-                    "maps" : "https://goo.gl/maps/k3TPz4JquPsrzNzF7"
+                    "nama" : "Pantai Nguluran",
+                    "gambar" : "https://www.travelingan.net/wp-content/uploads/2019/06/Harga-Tiket-Masuk-Teras-Kaca-Pantai-Nguluran-Gunung-Kidul.jpg",
+                    "detail" : "Bila anda berkunjung ke Yogyakarta, jangan lupa untuk mampir ke Gunung Kidul. Dimana, disini tersimpan begitu banyak objek wisata pantai dari ujung hingga ke ujung lagi. Pesonanya memang cukup mengesankan dengan keunikan masing-masing. Salah satunya adalah Pantai Nguluran. Nama dari Pantai Nguluran sendiri sebenarnya tidak terlalu dikenal oleh wisatawan nusantara maupun mancanegara. Tetapi, beberapa bulan terakhir objek wisata ini menjadi viral dengan spot-spot foto kecenya. Tidak tanggung-tanggung ada kurang lebih 5 spot yang sayang untuk di tolak. Dari ke 5 spot ini, semuanya hampir menghadirkan suasana dan nuansa berbeda dari yang lainnya. Sehingga, banyak wisatawan pun berbondong-bondong untuk mencoba sensasi yang tak akan pernah terlupakan.",
+                    "alamat" : "Yogyakarta",
+                    "maps" : "https://goo.gl/maps/7ZsBrqpCPE8odc238"
                 },
                 {
-                    "nama" : "D’Alas Warung",
-                    "gambar" : "https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/07/1-1-d.alas_warung.jpg",
-                    "detail" : "Berada tidak jauh dari destinasi wisata Tegalalang Rice Field Terrace, D’Alas Warung bukan hanya menawarkan beragam makanan untuk mengisi perut namun juga pemandangan alam yang indah dan wahana seru yang bisa Anda jajal. Untuk masuk ke restoran ini, Anda akan terlebih dulu disambut dengan pohon jeruk dan kopi yang tumbuh subur. Setelah itu, Anda bisa pilih sendiri posisi meja untuk santap siang dengan pemandangan yang menakjubkan. Kalau soal menu makanan, tempat ini tidak perlu diragukan lagi. Anda bisa memilih menu tradisional, western, vegetarian, hingga citarasa khas India. Bahkan kalau Anda punya request khusus untuk menu yang Anda maka chef andalan di restoran ini siap mewujudkannya. Punya alergi terhadap kacang-kacangan? Jangan ragu untuk menyampaikannya kepada pelayan restoran ya agar menu yang disajikan bisa disesuaikan. Menu yang wajib Anda pesan di sini adalah nasi campur dan sate lilit! Selain itu ada juga nasi goreng dengan bumbu bali yang super lezat.",
-                    "alamat" : "Bali",
-                    "maps" : "https://goo.gl/maps/Tngpy1pftks2h1eLA"
+                    "nama" : "Pantai Ngrumput",
+                    "gambar" : "https://travelspromo.com/wp-content/uploads/2019/10/Pantai-Ngrumput-Gunung-Kidul-arif-sujatmiko.jpg",
+                    "detail" : "Memang suasana alam indah berteman kicauan burung akan membuat hati menjadi adem! Banyak orang menjadikannya tempat berkemah untuk berburu indahnya matahari terbenam dan kedamaian malam di sini. Dan hanya di pantai ini Anda dapat melihat ombak menembus lubang tepat di tengah batu  karang. Karena itu batuan itu disebut karang bolong. Untuk meyakinkan teman Anda yang lebih suka “mendaki” ke pantai, ajak saja dia mendaki Bukit Kosakora tepat di depan pantai ini. Moleknya laut biru dengan kehijauan alam dari atas puncak bukit ini tidak kalah indahnya dengan puncak gunung deh.",
+                    "alamat" : "Yogyakarta",
+                    "maps" : "https://goo.gl/maps/xPHVdPFBsLLyfPSf9"
                 },
                 {
-                    "nama" : "Kamandalu Resort Ubud",
-                    "gambar" : "https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/07/2-3-by-lna_shop-2-740x559.jpg",
-                    "detail" : "Menikmati makan siang ala piknik menggunakan perahu menyusuri sungai yang dikelilingi pepohonan rimbun bersama pasangan? Ah, sepertinya momen romantis ini adalah impian semua pasangan. Kini, Anda bisa mewujudkan impian romantis tersebut menjadi sebuah kenyataan di Kamandalu Resort Ubud. Ada paket picnic lunch yang bisa Anda pilih untuk merasakan sensasi makan siang yang unik dan romantis ini. Satu paket menu makan siang sudah disiapkan di atas perahu, Anda dan pasangan hanya tinggal naik ke perahu saja. Ingin mendayung sendiri perahunya? Boleh, tapi para staf yang ramah juga siap membantu Anda. Jangan lupa berfoto ya! Selain lunch on the boat, Anda juga bisa menikmati paket picnic lunch ini di Vedika Restaurant dengan pemandangan sawah yang berumpak, tree deck dengan pemandangan hutan, atau menikmati floating lunch di kolam renang dengan pemandangan hutan yang rimbun dan asri. Selama 1,5 jam Anda bisa menikmati aneka makanan mulai dari salad hingga sate lalu ditutup dengan buah-buahan segar dan secangkir teh atau kopi.",
-                    "alamat" : "Bali",
-                    "maps" : "https://goo.gl/maps/9TG2dQqxXD3nmiZ58"
+                    "nama" : "Pantai Sedahan",
+                    "gambar" : "https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/10/4-1-Pantai-Sedahan-by-meettheexplorer_-740x447.jpg",
+                    "detail" : "Pantai sepanjang sekitar 100 meter ini berada di balik dua tebing sehingga airnya cukup tenang. Apalagi, status “pantai perawan”nya membuat airnya sangat jernih. Saat air sedang surut menjelang sore hari, berbagai biota laut dapat Anda lihat dengan jelas! Tidak hanya kita saja, penyu pun menyukai pantai ini. Mereka sering berbondong-bondong datang untuk bertelur di sini! Karena kejernihan airnya juga, Anda bisa melihat jelas ikan-ikan menari di antara karang. Maka “gerombolan” lain yang menganggap pantai ini adalah “surga” adalah para pemancing ikan. Ternyata memang banyak orang yang khusus datang kemari hanya untuk memancing.",
+                    "alamat" : "Yogyakarta",
+                    "maps" : "https://goo.gl/maps/xzxqor3XembEE8Fv9"
                 }
             ]  
         }
