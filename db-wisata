@@ -1,6 +1,5 @@
 {
-    "data" : [
-        {
+    "data" : {
             "bali" : [
                 {
                     "nama" : "Pantai Kuta",
@@ -37,9 +36,8 @@
                     "alamat" : "Bali",
                     "maps" : "https://goo.gl/maps/LcwgS7MQQ4wNzpfy7"
                 }
-            ]
-        },
-        {
+            ],
+    
             "yogyakarta" : [
                 {
                     "nama" : "Pantai Parangtritis",
@@ -78,5 +76,4 @@
                 }
             ]  
         }
-    ]
 }
