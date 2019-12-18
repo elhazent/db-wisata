@@ -185,6 +185,43 @@
                     "alamat" : "Belitung",
                     "maps" : "https://goo.gl/maps/UsNK7rPokxk6XvoB8"
                 }
+            ],
+             "sumba" : [
+                {
+                    "nama" : "Pantai Tarimbang",
+                    "gambar" : "https://dolandolen.com/wp-content/uploads/2019/08/Pantai-Tarimbang-by-Wahyu-Mahendra-Dolaners.jpg",
+                    "detail" : "Pantai Tarimbang merupakan salah satu must-visit ketika kamu berada di Sumba. Pantai cantik yang berada di Kecamatan Tabundung, sebelah selatan Sumba Timur ini memiliki ombak yang besar, sehingga sangat populer dikalangan surfers. Jika kamu tidak bisa selancar, tak mengapa! \n Kamu bisa bersantai di pinggir pantai sambil menikmati indahnya pemandangan di pantai ini. Pasir putihnya yang lembut berbaur indah dengan air laut yang jernih dan berwarna kebiruan. Terdapat sebuah pohon yang semacam jadi ikon pantai ini. Wisatawan pun banyak yang berfoto di pohon ini.",
+                    "alamat" : "Sumba Timur",
+                    "maps" : "https://goo.gl/maps/zp42Vs8Kr41HyZfb6"
+                },
+                {
+                    "nama" : "Pantai Walakiri",
+                    "gambar" : "https://miro.medium.com/max/792/1*84IRY3C2VknlGw15XUzCEg.jpeg",
+                    "detail" : "Pantai Walakiri merupakan salah satu pantai ikonik di Sumba yang jadi tujuannya wisatawan. Di pantai yang terletak di Desa Watumbaka, Kecamatan Pandawai, Kabupaten Sumba Timur ini memiliki kontur yang andai sehingga kamu bisa berjalan-jalan hingga ke tengah pantai tanpa takut tenggelam. \n Di pantai ini terdapat pohon mangrove keci yang jadi spot ikonik ketika berfoto Pantai ini dikenal sebagai salah satu tempat terbaik di Sumba untuk melihat sunset karena pemandangan yang disajikan benar-benar menyihir mata.",
+                    "alamat" : "Sumba Timur",
+                    "maps" : "https://goo.gl/maps/MB69FNuW7KqLs61N9"
+                },
+                {
+                    "nama" : "Pantai Pero",
+                    "gambar" : "https://media.travelingyuk.com/unggah/kurasi/2019/03/Pantai_Pero_3_8352.jpg",
+                    "detail" : "Pantai Pero yang terletak di Pero Batang, Kodi, Kabupaten Sumba Barat Daya ini juga menawarkan keindahan pantai yang bakal buat kamu betah berlama-lama. Pantai yang merupakan sebuah teluk ini memiliki landscape yang unik. Bagian hilir sungai tidak langsung menuju laut, tetapi dipisahkan daratan pantai berpasir putih yang terlihat seperti jembatan alami. \n Selain itu di bagian tengah pantai ini ada banyak batu karang berukuran besar yang sangat instagramable yang selalu jadi spot foto wisatawan yang main ke pantai ini.",
+                    "alamat" : "Sumba Barat",
+                    "maps" : "https://goo.gl/maps/QXjYVgCj4RoQ3tYp9"
+                },
+                {
+                    "nama" : "Pantai Londa Lima",
+                    "gambar" : "https://merahputih.com/media/2016/04/10/jdGrqe54ZI1460267220.jpg",
+                    "detail" : "Pantai Londa Lima juga harus masuk dalam daftar tempat wisata yang harus kamu kunjungi ketika liburan ke Sumba. Pantai cantik yang di Desa Kutta, Kecamatan Kanatang, Kabupaten Sumba Timur ini memiliki hamparan pasir putih yang begitu cantik berpadu indah dengan air lautnya yang tenang. \n Pohon-pohon rindang di tepi pantainya juga semakin menambah keindahan pantai ini. Karena jaraknya yang tidak terlalu jauh dari pusat kota Waingapu, pantai ini jadi tempat wisata favorit wisatawan maupun warga lokal.",
+                    "alamat" : "Sumba Timur",
+                    "maps" : "https://goo.gl/maps/Pj5GHw76MU2oV8FQ7"
+                },
+                {
+                    "nama" : "Pantai Puru Kambera",
+                    "gambar" : "https://cdn2.tstatic.net/kupang/foto/bank/images/tampak-sinar-sunset-di-pantai-puru-kambera.jpg",
+                    "detail" : "Pantai Puru Kambera ini juga memiliki panorama indah yang bisa menyihir mata. Pasirnya yang putih bercampur sempurna dengan air laut yang bersih dan berwarna biru. Pantai yang berada di Desa Mondu, Kecamatan Haharu, Waingapu ini selalu ramai dikunjungi wisatawan karena lokasinya yang tidak jauh dari Kota Waingapu. \n Di dekat pantai ini juga ada padang savana yang jadi tempat hits foto-foto. Selain berburu foto keren, kamu juga bisa berenang di pantai ini karena ombaknya yang lumayan tenang.",
+                    "alamat" : "Sumba Timur",
+                    "maps" : "https://goo.gl/maps/znxPTTwFRrahCJCk8"
+                }
             ]
         }
 }
