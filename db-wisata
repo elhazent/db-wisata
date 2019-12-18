@@ -148,6 +148,43 @@
                     "alamat" : "Maluku",
                     "maps" : "https://goo.gl/maps/2tTJoqLgUHJBdCxKA"
                 }
+            ],
+            "belitung" : [
+                {
+                    "nama" : "Pantai Tanjung Kelayang",
+                    "gambar" : "https://media.travelingyuk.com/wp-content/uploads/2016/12/Tanjung-Kelayang.jpg",
+                    "detail" : "Tanjung Kelayang bisa dibilang adalah primadona di Belitung. Lokasinya yang keren, membuat tempat ini jadi tuan rumah ajang kelas internasional yaitu Sail Wakatobi Belitong. Sesuai karakteristik pantai di Belitung, Tanjung Kelayang juga memiliki bebatuan besar di tepinya. Kontras sekali dengan lautan yang berwarna biru terhampar luas. Secara keseluruhan, dibagi menjadi dua area yaitu bagian batu granit dan satu lagi adalah pantai dengan pasir putih. Jangan lupa membawa kamera, karena kalau tidak mengabadikan beberapa foto kamu akan rugi sendiri. Apalagi kalau datang dari jauh. Para wisatawan bisanya akan berenang, bermain pasir, atau mencoba berbagai wahana yang disediakan.",
+                    "alamat" : "Belitung",
+                    "maps" : "https://goo.gl/maps/rUndrJXuGoR7NogQ6"
+                },
+                {
+                    "nama" : "Pulau Kepayang",
+                    "gambar" : "https://media.travelingyuk.com/wp-content/uploads/2016/12/Pulau-Kepayang.jpg",
+                    "detail" : "Belitung terdiri dari beberapa pulau, dan salah satu yang terbesar adalah Pulau Kepayang. Daratan ini juga memiliki gugusan pantai yang eksotis, begitu cemerlang saat diterpa sinar matahari. Luasnya hanya sekitar 14 hektare sebenarnya, namun punya banyak sudut yang cantik. Jika kamu berada di tepian barat Tanjung Kelayang, pasti bisa melihat keberadaan Pulau Ini. Para turis yang ingin datang akan diantar menggunakan boat dari Tanjung Kelayang dan setelah itu mereka dipersilakan untuk bersenang-senang menikmati alam terbuka yang menawan.",
+                    "alamat" : "Belitung",
+                    "maps" : "https://goo.gl/maps/pHTXpsgW7mydsPpf7"
+                },
+                {
+                    "nama" : "Tanjung Tinggi",
+                    "gambar" : "https://media.travelingyuk.com/wp-content/uploads/2016/12/Tanjung-Tinggi.jpg",
+                    "detail" : "Wisata Belitung semakin lengkap dengan keberadaan Pantai Tanjung Tinggi. Tempat ini sempat dijadikan sebagai lokasi syuting film Laskar Pelangi. Hal itu menunjukkan jika Tanjung Tinggi memang memiliki daya tarik yang memikat. Jika kamu berangkat dari Kota Tanjung Pandan, maka untuk sampai di spot keren ini harus menempuh perjalanan sejauh 30 km. Tenang, akses jalannya mudah ditempuh, kamu bisa melaju dengan santai hingga sampai di pantai. Tanjung Tinggi sudah dilengkapi dengan fasilitas yang mentereng seperti penginapan dan pusat kuliner. Mau berhari-hari di sini, nggak akan bikin kamu cepat bosan. Bahkan kamu dapat mengintip kehidupan bawah laut dengan snorkeling. Jika masih kurang, ada spot-spot untuk memancing lho. Ada satu hal yang perlu kamu tahu, perhatikan keberadaan ubur-ubur di pantai atau kamu akan tersengat.",
+                    "alamat" : "Belitung",
+                    "maps" : "https://goo.gl/maps/saHrrszn9EyKUZS66"
+                },
+                {
+                    "nama" : "Pulau Burung",
+                    "gambar" : "https://media.travelingyuk.com/wp-content/uploads/2016/12/Pulau-Burung.jpg",
+                    "detail" : "Dalam bahasa setempat disebut Pulau Burong, posisinya ada di bagian utara Belitung, tak jauh dari desa nelayan Tanjung Binga. Jika dilihat dari ketinggian, Pulau Burung ini tidak begitu luas, namun di sepanjang tepiannya ada pasir putih dan batu-batu granit menjulang dengan gagahnya. Pemberian nama Pulau Burung ternyata diambil dari bentuk batu granit di lokasi tersebut yang menyerupai kepala burung. Untuk melihatnya dengan mata kepala sendiri kamu harus ke sini dengan menumpang perahu dari Tanjung Binga selama 20 menit. Di waktu itu pula kamu bisa melihat hamparan Laut China Selatan.",
+                    "alamat" : "Belitung",
+                    "maps" : "https://goo.gl/maps/NpeNNBaamnvvVwTF6"
+                },
+                {
+                    "nama" : "Pantai Tanjung Binga",
+                    "gambar" : "https://media.travelingyuk.com/wp-content/uploads/2016/12/Tanjung-Binga.jpg",
+                    "detail" : "Tanjung Binga adalah tempat yang bisa kamu datangi jika ingin melihat kehidupan nelayan di samping suasana pantai dengan gugusan pulau di kejauhan. Desa ini terletak 22 km dari Tanjung Pandan dan 8 km dari Tanjung Tinggi. Karena sebagian besar penduduknya adalah nelayan, maka kamu akan mudah menemukan penjual seafood seperti ikan bakar. Tanjung Binga adalah destinasi wisata kuliner yang mantap di Belitung. Tak jauh dari tepi pantai di Tanjung Binga ada Bukit Berahu ,tempat berdirinya resort mewah dan restoran dengan pemandangan laut.",
+                    "alamat" : "Belitung",
+                    "maps" : "https://goo.gl/maps/UsNK7rPokxk6XvoB8"
+                }
             ]
         }
 }
