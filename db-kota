@@ -1,0 +1,20 @@
+{
+    "data" : [
+        {
+            "nama" : "Bali",
+            "id" : "bali"
+        },
+        {
+            "nama" : "Yogyakarta",
+            "id" : "yogyakarta"
+        },
+        {
+            "nama" : "Cilacap",
+            "id" : "cilacap"
+        },
+        {
+            "nama" : "Maluku",
+            "id" : "maluku"
+        }
+    ]
+}
