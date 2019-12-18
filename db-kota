@@ -15,6 +15,10 @@
         {
             "nama" : "Maluku",
             "id" : "maluku"
+        },
+        {
+            "nama" : "Belitung",
+            "id" : "belitung"
         }
     ]
 }
