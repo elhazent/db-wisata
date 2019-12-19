@@ -222,6 +222,43 @@
                     "alamat" : "Sumba Timur",
                     "maps" : "https://goo.gl/maps/znxPTTwFRrahCJCk8"
                 }
+            ],
+            "lombok" : [
+                {
+                    "nama" : "Pantai Senggigi",
+                    "gambar" : "https://festivaljalanjalan.com/wp-content/uploads/2019/05/Pantai-Senggigi-Wisata-Pantai-Lombok-yang-Menarik.jpg",
+                    "detail" : "Salah satu pantai favorit para wisatawan adalah Pantai Senggigi. Berada di Kecamatan Batu Layar, pantai ini mudah ditempuh dengan segala moda transportasi. Ombak yang cukup tinggi dan air jernih menjadi incaran pencinta surfing. Selain berselancar, Pantai Senggigi juga akan memanjakan kamu dengan aktivitas menarik lainnya, seperti snorkeling, bermain kano, dan jogging. \n Tidak rugi jika kamu ingin berlama-lama di pantai ini, mengingat pemandangan matahari tenggelam di Pantai Senggigi luar biasa indahnya. Pemandangan sunset semakin sempurna dengan latar belakang Gunung Arjuna di Bali yang terlihat kecil dari kejauhan.",
+                    "alamat" : "Lombok, Nusa Tenggara Barat",
+                    "maps" : "https://goo.gl/maps/YLyKmZ72Fsab4Cyz5"
+                },
+                {
+                    "nama" : "Pantai Kuta Lombok",
+                    "gambar" : "https://gotripina.com/wp-content/uploads/2019/06/Pantai-Kuta-Lombok-sumber-ig-kelombok_dawek.jpg",
+                    "detail" : "Ketika mendengar kata Kuta, mungkin kamu akan berpikir tentang Pantai Kuta di Bali. Jangan salah, Lombok Tengah ternyata memiliki pantai dengan nama serupa yang tak kalah cantik. Pantainya memiliki hamparan pasir putih dan masih sangat alami. \n Pantai Kuta Lombok sering disebut “Pantai Merica” karena memiliki tekstur butiran pasir yang menyerupai merica. Selain keindahan alam, di pantai yang dikelilingi perbukitan ini pun kamu bisa mengenal legenda suku Sasak, suku asli Lombok. Ada satu bukit yang memiliki nama serupa dengan seorang gadis cantik, Putri Mandalika. \n Di Bukit Mandalika,  kamu bisa melihat ritual bau nyale atau berburu cacing laut yang dilakukan masyarakat Sasak pada bulan Februari hingga Maret. Ritual ini dilakukan untuk mengenang legenda Putri Mandalika yang memutuskan lompat dari bukit karena tak ingin menjadi rebutan banyak pangeran. Konon, putri cantik ini berubah menjadi cacing laut atau nyale.",
+                    "alamat" : "Lombok Tengah, Nusa Tenggara Barat",
+                    "maps" : "https://g.page/kutalombokbeach?share"
+                },
+                {
+                    "nama" : "Pantai Tanjung Aan",
+                    "gambar" : "https://traverse.id/wp-content/uploads/2019/08/cropped-Pantai-Tanjung-Aan-Salah-Satu-Pantai-Terindah-di-Mandalika-Lombok-2himsaifanah.jpg",
+                    "detail" : "Bila ingin menyepi sambil menikmati pantai cantik yang tersembunyi, datanglah ke Pantai Tanjung Aan. Pantai yang berada di Bukit Marese, Lombok Tengah ini menawarkan pemandangan alam yang mengundang decak kagum. Komposisi antara perbukitan hijau, laut biru, dan langit berawan benar-benar terlihat sempurna. \n Pantai Tanjung Aan hanya berjarak 5 km dari Pantai Kuta Lombok. Tak seperti kebanyakan pantai di Lombok, Tanjung Aan memiliki garis pantai yang lebih panjang. Tekstur pasir di pantai ini juga unik karena memiliki dua jenis pasir yang berbeda, yaitu pasir seperti merica di sisi kiri pantai dan pasir putih halus di sisi kanan pantai. Ajaib!",
+                    "alamat" : "Lombok, Nusa Tenggara Barat",
+                    "maps" : "https://goo.gl/maps/ERLX3Shfp92Kk1FA9"
+                },
+                {
+                    "nama" : "Pantai Selong Belanak",
+                    "gambar" : "https://www.pantainesia.com/wp-content/uploads/2018/06/pantai-selong-belanak-680x382.jpg",
+                    "detail" : "Bagi peselancar pemula, Pantai Selong Belanak menjadi tempat latihan surfing terbaik. Ombak yang tidak terlalu besar dan masih sepi pengunjung, membuat kamu bisa lebih bebas berlatih. Selain itu, pantai ini juga dikelilingi perbukitan hijau yang melengkapi keindahan pemandangan. \n Jika kamu ingin ke sini, Pantai Selong Belanak berada di Desa Pujut, Lombok Tengah. Datanglah sore hari untuk merasakan pengalaman unik melihat kawanan kerbau yang digiring pulang ke kandang oleh sang penggembala. Pengalaman unik ini membuat banyak pengunjung antusias untuk melihat dan memotret kerbau-kerbau tersebut.",
+                    "alamat" : "Lombok Tengah, Nusa Tenggara Barat",
+                    "maps" : "https://goo.gl/maps/tNiKE1qiCuYEVFPg8"
+                },
+                {
+                    "nama" : "Pantai Mawun",
+                    "gambar" : "https://blog.traveloka.com/wp-content/uploads/2017/09/shutterstock_444624715.jpg",
+                    "detail" : "Masih ingin menjelajah pantai tersembunyi di kawasan Lombok Tengah? Tak jauh dari Pantai Selong Belanak, kamu juga bisa menemukan Pantai Mawun. Pantai yang memiliki pasir putih dengan air jernih kebiruan ini membuat kamu betah berada di sini. \n Pantai penuh pesona ini berada di sebuah teluk yang diapit oleh dua bukit hijau. Bagi yang suka tantangan, kamu bisa mendaki kedua bukit tersebut untuk menyaksikan indahnya pemandangan laut lepas dari ketinggian. Tak heran bila Pantai Mawun menjadi destinasi tepat untuk wisatawan yang ingin menikmati pantai dan mendaki bukit sekaligus.",
+                    "alamat" : "Lombok, Nusa Tenggara Barat",
+                    "maps" : "https://goo.gl/maps/JHe25q2ZM3XD3nWu7"
+                }
             ]
         }
 }
