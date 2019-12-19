@@ -23,6 +23,10 @@
         {
             "nama" : "Pulau Sumba",
             "id" : "sumba"
+        },
+        {
+            "nama" : "Lombok",
+            "id" : "lombok"
         }
         
     ]
