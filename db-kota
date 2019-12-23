@@ -1,6 +1,10 @@
 {
     "data" : [
         {
+            "nama" : "Aceh",
+            "id" : "aceh"
+        },
+        {
             "nama" : "Bali",
             "id" : "bali"
         },
